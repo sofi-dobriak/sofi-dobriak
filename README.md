@@ -10,11 +10,3 @@ Formerly a photo editor, I chose IT as a career path because of my desire to dev
 *   ✉️  You can contact me at [sofi.dobriak@gmail.com](mailto:sofi.dobriak@gmail.com)
 *   🧠  I'm learning React
 *   ⚡  Fun fact: I need to remind myself that rest is important
-                    </a>
-                      <a href="https://www.linkedin.com/in/sofi-dobriak" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
