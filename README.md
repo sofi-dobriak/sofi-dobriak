@@ -8,7 +8,6 @@ Formerly a photo editor, I chose IT as a career path because of my desire to dev
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [sofi.dobriak@gmail.com](mailto:sofi.dobriak@gmail.com)
-* 🧠  I'm learning React
 * ⚡  Fun fact: I need to remind myself that rest is important
 
 ### Skills
